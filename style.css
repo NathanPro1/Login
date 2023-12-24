@@ -1,0 +1,33 @@
+﻿body{
+    text-align:center;
+    
+}
+
+#Label {
+    font-family: cursive;
+    font-size: 20px;
+    font-weight:bold;
+
+
+}
+
+#Entry1{
+    font-size:15px;
+    font-family:cursive;
+    font-weight:bold;
+    
+}
+
+#Entry2 {
+    font-size: 15px;
+    font-family: cursive;
+    font-weight: bold;
+}
+#SubmitBtn {
+    background-color: forestgreen;
+    color: white;
+    font-family: cursive;
+    font-size: 22px;
+    border: 3px solid;
+    border-radius: 15px;
+}
